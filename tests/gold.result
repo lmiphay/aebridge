@@ -1,0 +1,16 @@
+00-list.sh
+
+LIST: Empty
+---
+01-add.sh
+Added
+LIST: Intro1,END
+---
+02-retrieve.sh
+http://sim3015.aditi.lindenlab.com:12046/cap/3ff4f3f2-ea08-76c1-cef6-a22b4a573a7c
+LIST: Intro1,END
+---
+03-remove.sh
+Removed
+LIST: Empty
+---
